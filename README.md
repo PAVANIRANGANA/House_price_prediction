@@ -1,4 +1,4 @@
-🏠 House Price Prediction
+# 🏠 Boston House Price Prediction Web App
 A machine learning project that predicts house prices based on various features of a property. This application is built using Flask for the web interface and a pre-trained scikit-learn model.
 
 
